@@ -110,6 +110,9 @@ author:
   location         : "Seattle, WA"
   email            : 
   links:
+    - label: "University of Washington"
+      icon: "fas fa-fw fa-university"
+#       url: "https://www.ocean.washington.edu/home/Ethan%20Campbell"
     - label: "joycecai@uw.edu"
       icon: "fas fa-fw fa-envelope-square"
       # url: "joycecai@uw.edu"
