@@ -112,25 +112,39 @@ author:
   links:
     - label: "University of Washington"
       icon: "fas fa-fw fa-university"
-#       url: "https://www.ocean.washington.edu/home/Ethan%20Campbell"
+      url: "https://www.ocean.washington.edu/home/Tongxin_Cai"
     - label: "joycecai@uw.edu"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "joycecai@uw.edu"
+      url: "joycecai@uw.edu"
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
 #       # url: "https://your-website.com"
     - label: "@joyce_cai_ocean"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/joyce_cai_ocean"
+      url: "https://twitter.com/joyce_cai_ocean"
 #     - label: "Facebook"
 #       icon: "fab fa-fw fa-facebook-square"
 #       # url: "https://facebook.com/"
     - label: "JoyceCaiOcean"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/JoyceCaiOcean"
+      url: "https://github.com/JoyceCaiOcean"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
-      # url: "https://scholar.google.com/citations?user=cvisuyMAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=cvisuyMAAAAJ&hl=en"
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Research
+    url: /research/
+  - title: Sci-Contributions
+    url: /publications/
+  - title: Outreach
+    url: /outreach/ 
+  - title: About Me
+    url: /aboutme/
+  - title: Life
+    url: /life/    
 
 # Site Footer
 footer:
@@ -233,6 +247,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -241,6 +256,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 
 # Archives
@@ -289,7 +305,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
