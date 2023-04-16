@@ -25,7 +25,7 @@ classes: wide
 
 **Cai, T.**, Zhao, Z., D'Asaro, E., Wang, J., Fu, L. Time‑Varying internal tides revealed by mooring measurements in SWOT Cal/Val pre‑Launch field campaign 2019. *Poster presented at: AGU Ocean Science Meeting; March, 2022; Virtual.*
 
-![Ocean Science Meeting 2022](/assets/images/OSM_22_Screenshot.png){:height="616px" width="1400px" style="border: 1px solid black"}
+![Ocean Science Meeting 2022](/assets/images/OSM_22_Screenshot.png){:height="123px" width="280px" style="border: 1px solid black"}
 
 **Cai, T.**, Cai, H. The impact of estuary shape on energy transport in divergent estuaries. *Poster presented at: Physics of Estuaries and Coastal Seas Meeting (PECS); October, 2018; Galveston, TX, USA.*
 
