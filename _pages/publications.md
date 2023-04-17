@@ -29,7 +29,7 @@ classes: wide
   [![Ocean Science Meeting 2022](/assets/images/OSM_22_Screenshot.png)]{:height="246px" width="560px" style="display: block; margin: 0 auto"} 
 {% endcapture %}
 
-<figure>
+<figure class="half">
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption> 2-min introduction at poster section of Ocean Science Meeting, 2022. </figcaption>
 </figure>
