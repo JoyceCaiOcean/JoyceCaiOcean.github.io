@@ -30,9 +30,15 @@ classes: wide
 {% endcapture %} -->
 
 <figure>
-  <img src="/assets/images/OSM_22_Screenshot.png" height="246px" width="560px" style="display: block; margin: 0 auto">
+  <img src="/assets/images/OSM_22_Screenshot.png">
   <figcaption> 2-min introduction at poster section of Ocean Science Meeting, 2022. </figcaption>
 </figure>
+figure {
+  text-align:center;
+}
+img {
+  height="246px"; width="560px"; display: block; margin: 0 auto;
+}
 
 <!-- <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
