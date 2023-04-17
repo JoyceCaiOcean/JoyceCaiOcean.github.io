@@ -8,31 +8,4 @@ author_profile: true
 
 ---
 
-I am still checking it out
-But here supposed to be a bio with my interest?
-
-<div class="begin-examples"></div>
-
-article .begin-examples ~ h3,
-article .begin-examples ~ p {
-    float: left;
-    box-sizing: border-box;
-    padding-right: 1rem;
-    clear: both;
-}
-article .begin-examples ~ .highlight {
-    float: right;
-    clear: right;
-    margin-bottom: 1rem;
-}
-
-article .end-examples ~ p,
-article .end-examples ~ h3,
-article .end-examples ~ .highlight {
-    width: auto;
-    float: none;
-    clear: none;
-}
-<div class="end-examples"></div>
-
-
+I am studying physical oceanography at School of Oceanography and Applied Physics Lab (APL), University of Washington (UW) since 2021. I am joint advised by <a href="https://apl.uw.edu/people/profile.php?last_name=Zhao&first_name=Zhongxiang">Zhongxiang Zhao</a> and Dr. Eric D'Asaro. Previous to that, I earned a Master's Degree of Environmental Engineering from Department of Civil and Environmental Engineering, Stanford University in 2021.
