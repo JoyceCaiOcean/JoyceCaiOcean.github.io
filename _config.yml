@@ -110,7 +110,7 @@ author:
   location         : "Seattle, WA"
   email            : 
   links:
-    - label: "University of Washington"
+    - label: "UW"
       icon: "fas fa-fw fa-university"
       url: "https://www.ocean.washington.edu/home/Tongxin_Cai"
     - label: "joycecai@uw.edu"
