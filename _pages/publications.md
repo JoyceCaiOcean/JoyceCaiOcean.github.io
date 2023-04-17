@@ -25,7 +25,9 @@ classes: wide
 
 **Cai, T.**, Zhao, Z., D'Asaro, E., Wang, J., Fu, L. Time‑Varying internal tides revealed by mooring measurements in SWOT Cal/Val pre‑Launch field campaign 2019. *Poster presented at: AGU Ocean Science Meeting; March, 2022; Virtual.*
 
-![Ocean Science Meeting 2022](/assets/images/OSM_22_Screenshot.png#center){:height="246px" width="560px" style="display: block; margin: 0 auto"} 
+{% figure caption:" 2-min introduction at poster section of Ocean Science Meeting, 2022" %}
+  ![Ocean Science Meeting 2022](/assets/images/OSM_22_Screenshot.png#center){:height="246px" width="560px" style="display: block; margin: 0 auto"} 
+{% endfigure %}
 
 <!-- border: 1px solid black" -->
 
