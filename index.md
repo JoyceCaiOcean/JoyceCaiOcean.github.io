@@ -11,6 +11,7 @@ classes: wide
 
 ---
 ## My current research focuses on the dynamics of varying internal tidal waves in the changing ocean, using the combination of in-situ observations and satalite altimetry data. ##
----
 
 I am studying physical oceanography at School of Oceanography and Applied Physics Lab (APL), University of Washington (UW) since 2021. I am joint advised by <a href="https://apl.uw.edu/people/profile.php?last_name=Zhao&first_name=Zhongxiang">Zhongxiang Zhao</a> and <a href="https://apl.uw.edu/people/profile.php?last_name=D%27Asaro&first_name=Eric">Eric D'Asaro</a>. Previous to that, I earned a Master's of Science in Environmental Engineering from Department of Civil and Environmental Engineering, Stanford University in 2021.
+
+I was born in Guangzhou, China and lived there for 22 years. As a Cantonese foodie, my childhood dream is to be a chef like Gordon Ramsay. Besides cooking, I like travel, badminton and outdoor activities. Learn more <a href="https://joycecaiocean.github.io/life/">here</a>.
