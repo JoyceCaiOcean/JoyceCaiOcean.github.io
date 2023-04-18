@@ -10,56 +10,44 @@ My journey in marine science began in the picturesque Pearl River Estuary (PRE) 
 
 <!-- ![2017 Weddell polynya (credit: NASA Worldview)](/assets/images/2017_polynya.tiff){:height="400px" width="1000px" style="border: 1px solid black"} -->
 
-<style>
-  H2{color:DarkOrange !important;}
-</style>
 
 ## Internal Tides Analysis from SWOT Pre‑launch In‑situ Measurements
-Graduate Research Assistant, University of Washington, Applied Physics Laboratory
-*Seattle, WA, USA. March 2021 - Present*
+Graduate Research Assistant, University of Washington, Applied Physics Laboratory (*Seattle, WA, USA. March 2021 - Present*)
 * Advisors: Zhongxiang Zhao and Eric D’Asaro
 * Quantify the Spatiotemporal variation of Internal Tides near Monterey Bay, CA, by comparing 3 moorings data from SWOT Cal/Val Pre‑launch Field Campaign 2019 with satellite altimetry results
 
 
 ## Sediment erosion and computational fluid dynamics
-
-Independent Research Assistant, Stanford University
-
-*Stanford, CA, USA. June 2020 - September 2020*
-* Advisor: Oliver Fringer
+Independent Research Assistant, Stanford University (*Stanford, CA, USA. June 2020 - September 2020*)
+* Advisor: <a href="https://profiles.stanford.edu/oliver-fringer">Oliver Fringer</a>
 * Reviewed literature on both the empirical and numerical methods of incipient motion for granular material transport with turbulent channel flows. Established a more concrete understanding of the hydrodynamics of particle‑laden flows by evaluating previous Eulerian‑Lagrangian (EL) studies on fluid‑particle and particle‑particle interactions
 * Visualized the fluid‑particle interaction by conducting a two‑dimensional particle‑resolved simulation using the Immersed Boundary method in MATLAB
 
 
+## Tidal energy flux propagation in the Pearl River estuary
+Undergraduate Research Assistant, Sun Yat‑sen University (*Guangzhou, China. February 2018 - July 2019*)
+* Advisor: <a href="https://www.researchgate.net/profile/Huayang-Cai">Huayang Cai</a>
+* Analyzed how changes of the Pearl River estuary terrain influenced Lingding Channel’ s tide energy transport and dissipation in recent 50 years using MATLAB and one‑dimensional analytical model for tidal hydrodynamics in an infinitely long channel
+* Conducted the research in the context of global sea level rise and high intensity human activities, aiming to offer scientific grounding and explanations for issues regarding relevant coast ecosystems, saline water encroachment, and waterway dredging
 
 
+## Fishery resources of the Southern East China Sea in historic periods
+Undergraduate Research Assistant, Sun Yat‑sen University (*Guangzhou, China. March 2017 - April 2018*)
+* Advisors: Yunzhen Chen
+* Retrieved information of fishery covered in Hai Cuo Tu, a marine creatures painting collection completed in Qing dynasty, including the ancient name, scientific name, origin, size, flood season, and economic value
+* Compared the information retrieved with contemporary fishery resources in southern East China Sea, analyzing the differences and exploring possible causes based on relevant literature
 
 
-
-
-
-
-
-
+## Regulations for time‑space distribution and environmental impact factors of small plankton communities (College Student Innovative Training Project)
+Independent Research Assistant, Sun Yat‑sen University （*Guangzhou, China. March 2016 - September 2017*)
+* Advisors: ?
+* Attempted to uncover the coupling relationship between the aforementioned time‑space distribution and environmental impact factors of the Pearl River estuary, aiming to provide environmental monitoring and protection
+* Conducted ten effective samplings in three monitoring spots established along the north coast of Qinglv Road in Zhuhai City, processing data of such categories as temperature, salinity, pH value, concentration of chlorophyll, and organism abundance
 
 
 ## Ongoing and future work
+I'm currently actively working on several projects, and some others are still in the ideation phase. If any of these projects sound interesting to you or if you're conducting similar research, please don't hesitate to [contact me](mailto:joycecai@uw.edu). I would be thrilled to collaborate with you!
 
-The following are several projects that I have been actively working on (or just thinking about!). Of course, not all of these will be completed in the next few years of my PhD. [Contact me](mailto:ethancc@uw.edu) if any of these sound interesting or if you are engaged in similar research. I would be excited to collaborate!
-
-* Reconstruction of Antarctic sea ice formation and melt from ocean salinity
-* Impact of storms on the upper ocean under sea ice
-* Snow loss processes on sea ice
-* Effects of Taylor column dynamics on mixing, deep ventilation, and biogeochemistry
-* Changes in Southern Hemisphere subpolar gyre strength under anthropogenic forcing
-* Pathways of Antarctic Bottom Water formation during glacial climates
-
----
-<!---
-## Collaborations
-
-* Drivers of recent temperature and sea ice variability in the Southern Ocean (led by [Earle Wilson](https://earlew.github.io))
-* Effect of Southern Ocean Taylor columns on biological productivity (led by [Channing Prend](https://cprend.github.io))
-
----
---->
+* internal tides in the Arctic region
+* seasonal variations of internal tides in the changing climate
+* interaction between internal tides and mesoscale eddies and currents
