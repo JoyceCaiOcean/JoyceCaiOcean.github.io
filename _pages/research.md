@@ -10,6 +10,10 @@ My journey in marine science began in the picturesque Pearl River Estuary (PRE) 
 
 <!-- ![2017 Weddell polynya (credit: NASA Worldview)](/assets/images/2017_polynya.tiff){:height="400px" width="1000px" style="border: 1px solid black"} -->
 
+<style>
+  H2{color:DarkOrange !important;}
+</style>
+
 ## Internal Tides Analysis from SWOT Pre‑launch In‑situ Measurements
 Graduate Research Assistant, University of Washington, Applied Physics Laboratory
 *Seattle, WA, USA. March 2021 - Present*
