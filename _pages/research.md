@@ -1,21 +1,43 @@
 ---
 layout: single
-title: Research
+title: Studying tides From Estuaries to the Ocean
 permalink: /research/
 author_profile: true
 classes: wide
 ---
 
-## Studying tides From Estuaries to the Ocean
 My journey in marine science began in the picturesque Pearl River Estuary (PRE) in Guangdong, China. Driven by a desire to comprehend the complex dynamics of tidal energy transportation and dissipation in the PRE, I delved deep into my research, examining the impact of human activities over the past 50 years. Upon moving to California, I redirected my focus to the captivating San Francisco Bay, where I immersed myself in the wonders of its marine environment. Enthralled by the enigmatic allure of the vast open ocean, I expanded my research interests to study the intriguing phenomenon of internal tides in the deep sea.
-
-## Internal Tides Analysis from SWOT Pre‑launch In‑situ Measurements
 
 <!-- ![2017 Weddell polynya (credit: NASA Worldview)](/assets/images/2017_polynya.tiff){:height="400px" width="1000px" style="border: 1px solid black"} -->
 
+## Internal Tides Analysis from SWOT Pre‑launch In‑situ Measurements
+Graduate Research Assistant, University of Washington, Applied Physics Laboratory
+*Seattle, WA, USA. March 2021 - Present*
+* Advisors: Zhongxiang Zhao and Eric D’Asaro
+* Quantify the Spatiotemporal variation of Internal Tides near Monterey Bay, CA, by comparing 3 moorings data from SWOT Cal/Val Pre‑launch Field Campaign 2019 with satellite altimetry results
 
 
-**Phytoplankton blooms in the Antarctic seasonal ice zone are limited by light and iron. 
+## Sediment erosion and computational fluid dynamics
+
+Independent Research Assistant, Stanford University
+
+*Stanford, CA, USA. June 2020 - September 2020*
+* Advisor: Oliver Fringer
+* Reviewed literature on both the empirical and numerical methods of incipient motion for granular material transport with turbulent channel flows. Established a more concrete understanding of the hydrodynamics of particle‑laden flows by evaluating previous Eulerian‑Lagrangian (EL) studies on fluid‑particle and particle‑particle interactions
+* Visualized the fluid‑particle interaction by conducting a two‑dimensional particle‑resolved simulation using the Immersed Boundary method in MATLAB
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Ongoing and future work
 
