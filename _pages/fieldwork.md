@@ -19,7 +19,7 @@ Student Attendant (*virtual. June, 2020 - July, 2020*)
 
 
 ## Coastal hydrodynamics field studies
-Student Attendant (*Skåne län, Sweden. November, 2017 - December, 2017*)
+Student Attendant (*Skåne län, Sweden. November 2017 - December 2017*)
 * Studied the severely corroded south coast of Skåne län in light of improper local human behavior and measured beach profile information by global positioning system equipment
 * Completed the following MATLAB assignments: 1) correcting wind speed data for different standing positions; and 2) calculating wave height and wave direction changes from deep sea waves to shallow sea breaker and designing proper caisson breakwater and rubble breakwater according to near‑shore wave data
 
