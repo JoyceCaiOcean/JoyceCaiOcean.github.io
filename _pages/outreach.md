@@ -25,8 +25,8 @@ Volunteer (*Kálamos, Greece. December 2017 - January 2018*)
 
 ## PDT Food Collective
 Co-founder (*Guangzhou, China. September 2016 - June 2018*)
-• PDT, standing for ”Pomme deTerre”, is an advocacy organization focused on ”transitioning sustainable food systems”
-• Create plans for implementing PDT and establishing a connection between PDT and local communities. This involves organizing community events aimed at raising public awareness about sustainable food practices and educating people on daily actions they can take to support sustainability
+* PDT, standing for ”Pomme deTerre”, is an advocacy organization focused on ”transitioning sustainable food systems”
+* Create plans for implementing PDT and establishing a connection between PDT and local communities. This involves organizing community events aimed at raising public awareness about sustainable food practices and educating people on daily actions they can take to support sustainability
 
 
 ## Sea Elf Volunteer Association, SYSU
