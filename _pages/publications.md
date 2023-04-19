@@ -25,14 +25,17 @@ classes: wide
 
 **Cai, T.**, Zhao, Z., D'Asaro, E., Wang, J., Fu, L. Time‑Varying internal tides revealed by mooring measurements in SWOT Cal/Val pre‑Launch field campaign 2019. *Poster presented at: AGU Ocean Science Meeting; March, 2022; Virtual.*
 
-<!-- ![Ocean Science Meeting 2022](/assets/images/OSM_22_Screenshot.png){:height="246px" width="560px" style="display: block; margin: 0 auto"}  -->
-
 <figure style="width: 560px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/OSM_22_Screenshot.png" alt="">
+  <img src="/assets/images/OSM_22_Screenshot.png" alt="">
   <figcaption>2-min introduction at poster section of Ocean Science Meeting, 2022.</figcaption>
 </figure> 
 
 **Cai, T.**, Cai, H. The impact of estuary shape on energy transport in divergent estuaries. *Poster presented at: Physics of Estuaries and Coastal Seas Meeting (PECS); October, 2018; Galveston, TX, USA.*
+
+<figure style="width: 560px" class="align-center">
+  <img src="/assets/images/PECS.png" alt="">
+  <figcaption> (Left) I am with my advisor Prof. Huayang Cai. (Right) Discussion. </figcaption>
+</figure> 
 
 Chen, Y., **Cai, T.**, Lin, J. The fishery resources of the southern East China Sea in the late 17th century as retrieved from the ancient Chinese” Catalog of Marine Creatures”. *Poster presented at: EGU General Assembly Conference; April, 2018; Vienna, Austria.*
 
