@@ -4,7 +4,7 @@ tagline: "Ph.D. student at University of Washington"
 header:
   overlay_image: /assets/images/SR_air_sea.JPG
   overlay_filter: 0.3 # same as adding an opacity of 0.3 to a black background
-  caption: "*during S-MODE Project IOPIII Cruise, at R/V Sally Ride*"
+  caption: "*during S-MODE Project IOPII Cruise, at R/V Sally Ride*"
 author_profile: true
 layout: single
 classes: wide
