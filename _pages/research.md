@@ -40,7 +40,7 @@ Undergraduate Research Assistant, Sun Yat‑sen University (*Guangzhou, China. M
 
 ## Regulations for time‑space distribution and environmental impact factors of small plankton communities (College Student Innovative Training Project)
 Independent Research Assistant, Sun Yat‑sen University （*Guangzhou, China. March 2016 - September 2017*)
-* Advisors: 
+* Advisors: Jinpeng Yang
 * Attempted to uncover the coupling relationship between the aforementioned time‑space distribution and environmental impact factors of the Pearl River estuary, aiming to provide environmental monitoring and protection
 * Conducted ten effective samplings in three monitoring spots established along the north coast of Qinglv Road in Zhuhai City, processing data of such categories as temperature, salinity, pH value, concentration of chlorophyll, and organism abundance
 
