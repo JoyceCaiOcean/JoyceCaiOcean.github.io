@@ -16,6 +16,10 @@ Student Volunteer (*Seattle, Wa, USA. May 2022*）
 Student Volunteer (*Lund, Sweden. November 2017*)
 * Assisted Senior Researcher Jing Li from Lunds Tekniska Högskola in conference preparation and communicated with attending professors regarding flood problems
 
+<figure style="width: 560px" class="align-center">
+  <img src="/assets/images/Lund_conf.jpg" alt="">
+  <figcaption> Group photos of main organizers of *No more Atlantis*. </figcaption>
+</figure> 
 
 ## Sustainable development on Kálamos Island
 Volunteer (*Kálamos, Greece. December 2017 - January 2018*)
@@ -32,6 +36,10 @@ Co-founder (*Guangzhou, China. September 2016 - June 2018*)
 * PDT, standing for ”Pomme deTerre”, is an advocacy organization focused on ”transitioning sustainable food systems”
 * Create plans for implementing PDT and establishing a connection between PDT and local communities. This involves organizing community events aimed at raising public awareness about sustainable food practices and educating people on daily actions they can take to support sustainability
 
+<figure style="width: 560px" class="align-center">
+  <img src="/assets/images/PDT.jpg" alt="">
+  <figcaption> I am introducing PDT to the community. </figcaption>
+</figure> 
 
 ## Sea Elf Volunteer Association, SYSU
 Organizer (*Guangzhou, China. September 2016 - June 2018*)
