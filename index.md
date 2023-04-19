@@ -14,7 +14,7 @@ classes: wide
 
 ---
 
-<figure style="width: 300px" class="align-right">
+<figure style="width: 300px" class="align-left">
   <img src="/assets/images/headshot.JPG" alt="">
 </figure> 
 
