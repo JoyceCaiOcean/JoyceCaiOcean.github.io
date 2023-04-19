@@ -25,7 +25,7 @@ classes: wide
 
 **Cai, T.**, Cai, H. The impact of estuary shape on energy transport in divergent estuaries. *Poster presented at: Physics of Estuaries and Coastal Seas Meeting (PECS); October, 2018; Galveston, TX, USA.*
 
-<figure class="align-center">
+<figure style="width: 560px" class="align-center">
   <img src="/assets/images/PECS.jpg" alt="">
   <figcaption> (Left) I am with my advisor Prof. Huayang Cai. (Right) Discussion. </figcaption>
 </figure> 
