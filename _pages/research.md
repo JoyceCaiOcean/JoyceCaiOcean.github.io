@@ -37,10 +37,10 @@ Undergraduate Research Assistant, Sun Yat‑sen University (*Guangzhou, China. M
 * Retrieved information of fishery covered in Hai Cuo Tu, a marine creatures painting collection completed in Qing dynasty, including the ancient name, scientific name, origin, size, flood season, and economic value
 * Compared the information retrieved with contemporary fishery resources in southern East China Sea, analyzing the differences and exploring possible causes based on relevant literature
 
-<figure class="half">
+<figure style="height: 400px" class="third">
     <img src="/assets/images/haicuotu_cover.jpg">
     <img src="/assets/images/haicuotu3.jpg">
-    <figcaption>Hai Cuo Tu, by Huang Nie, Qing Dynasty. Credit: <a href:"https://www.npm.gov.tw/">National Palace Museum</a></figcaption>
+    <figcaption>Hai Cuo Tu, by Huang Nie, Qing Dynasty. Credit: [National Palace Museum](https://www.npm.gov.tw/)</figcaption>
 </figure>
 
 ## Regulations for time‑space distribution and environmental impact factors of small plankton communities (College Student Innovative Training Project)
