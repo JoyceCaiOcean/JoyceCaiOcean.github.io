@@ -22,6 +22,10 @@ Volunteer (*Kálamos, Greece. December 2017 - January 2018*)
 * Analyzed the quantity and population structure of Monk Seal as well as human interference behaviors for <a href="https://www.terrasylvestris.org/">Terra Sylvestris</a>, a non‑governmental organization.
 * Delivered reports to relevant governmental authorities to encourage measures and policies for preserving and improving the island’s biological diversity based on the analysis
 
+<figure style="width: 800px" class="align-center">
+  <img src="/assets/images/Greece.jpg" alt="">
+  <figcaption>(Left) Preparing a boat trip to the Seal cave. (Center) Downloading tracking camera data of Monk Seals. (Right) Celebrating Christmas with NGO's leaders. </figcaption>
+</figure> 
 
 ## PDT Food Collective
 Co-founder (*Guangzhou, China. September 2016 - June 2018*)
