@@ -38,9 +38,9 @@ Undergraduate Research Assistant, Sun Yat‑sen University (*Guangzhou, China. M
 * Compared the information retrieved with contemporary fishery resources in southern East China Sea, analyzing the differences and exploring possible causes based on relevant literature
 
 <figure class="half">
-    <img src="/assets/images/haicuotu2_gugong.jpg">
-    <img src="/assets/images/haicuotu_HuangNie.PNG">
-    <figcaption>Hai Cuo Tu, by Huang Nie, Qing Dynasty.</figcaption>
+    <img src="/assets/images/haicuotu_cover.jpg">
+    <img src="/assets/images/haicuotu3.jpg">
+    <figcaption>Hai Cuo Tu, by Huang Nie, Qing Dynasty. Credit: <a href:"https://www.npm.gov.tw/">National Palace Museum</a></figcaption>
 </figure>
 
 ## Regulations for time‑space distribution and environmental impact factors of small plankton communities (College Student Innovative Training Project)
