@@ -6,13 +6,6 @@ author_profile: true
 classes: wide
 ---
 
----
-
-<!-- ![Deploying a CTD](/assets/images/CTD.jpg){:height="400px" width="1000px" style="border: 1px solid black"}
-
----
--->
-
 ## Publications
 
 **Cai, T.**, Zhao, Z., D'Asaro, E., Wang, J., Fu, L. Time‑Varying internal tides revealed by mooring measurements in SWOT Cal/Val pre‑Launch field campaign 2019. *Journal of Geophysical Research&ndash;Oceans*, in prep.
@@ -32,8 +25,8 @@ classes: wide
 
 **Cai, T.**, Cai, H. The impact of estuary shape on energy transport in divergent estuaries. *Poster presented at: Physics of Estuaries and Coastal Seas Meeting (PECS); October, 2018; Galveston, TX, USA.*
 
-<figure style="width: 560px" class="align-center">
-  <img src="/assets/images/PECS.png" alt="">
+<figure class="align-center">
+  <img src="/assets/images/PECS.jpg" alt="">
   <figcaption> (Left) I am with my advisor Prof. Huayang Cai. (Right) Discussion. </figcaption>
 </figure> 
 
