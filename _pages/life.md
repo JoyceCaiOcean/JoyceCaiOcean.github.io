@@ -1,9 +1,10 @@
 ---
 title: "Life outside research"
-<!-- header:
-  overlay_image: /assets/images/MtRainer_view.jpg
-  overlay_filter: 0.2 # same as adding an opacity of 0.3 to a black background
-  caption: "*view from Mt. Rainier, WA*" -->
+header:
+  image: /assets/images/MtRainer_view.jpg
+  filter: 0.2 # same as adding an opacity of 0.3 to a black background
+  caption: "*view from Mt. Rainier, WA*"
+  
 author_profile: true
 layout: single
 classes: wide
