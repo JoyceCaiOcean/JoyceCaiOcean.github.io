@@ -1,17 +1,16 @@
 ---
 title: "Life outside research"
+layout: single
+classes: wide
+---
+
+Here is the place to share the other side of me!
+
 <!-- header:
   image: /assets/images/MtRainer_view.jpg
   filter: 0.2 # same as adding an opacity of 0.3 to a black background
   caption: "*view from Mt. Rainier, WA*"
    -->
-<!-- author_profile: true
-layout: single
-classes: wide -->
-
----
-
-Here is the place to share the other side of me!
 
 ## Places
 
