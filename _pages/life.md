@@ -17,7 +17,7 @@ This is the place where I can share the other side of myself!
 #### Hometown: Guangzhou, China
 I had a happy and normal childhood with those who loved me the most. Even though I was an only child, I never felt lonely because of the love that surrounded me.
 
-<figure style="width: 400px" class="align-center">
+<figure style="width: 560px" class="align-center">
   <img src="/assets/images/gz.jpg" alt="">
 </figure> 
 
@@ -37,4 +37,21 @@ After studying in the same place for 20 years, I felt a strong desire to explore
 </figure> 
 
 #### Stanford, CA
-The incredible time in Sweden keeps me 
+My incredible time in Sweden opened me up to diverse people, inclusive cultures, and the world beyond. The opportunity to attend graduate school at the prestigious Stanford University felt like a dream come true. Though I had moments of self-doubt about my sense of belonging among such intelligent peers, I was thrilled by the kindness I received and the new person I became through learning from not only top-notch scholars but also all the experiences I went through.
+
+<figure style="width: 800px" class="align-center">
+  <img src="/assets/images/SU1.jpg" alt="">
+  <figcaption>(Left) Photo with President of Stanford University, Marc Tessier-Lavigne. (Right) Orientation introduction.</figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="/assets/images/SU2.jpg" alt="">
+  <figcaption>(Left) Photo with President of Stanford University, Marc Tessier-Lavigne. (Right) Orientation introduction.</figcaption>
+</figure> 
+
+Additionally, I spent the challenging years of the pandemic there, alongside everyone else. Although it was not the ideal studying experience, it was certainly a unique one. I am grateful for all the supportive people who came together to weather that difficult time with me.
+
+<figure style="width: 560px" class="align-center">
+  <img src="/assets/images/online.jpg" alt="">
+  <figcaption>(Left) EFM weekly meeting. Credit: Stephen Monismith. (Right) Course CEE262C: *Coastal Ocean Modeling* offered by Oliver Fringer.</figcaption>
+</figure> 
