@@ -46,7 +46,7 @@ My incredible time in Sweden opened me up to diverse people, inclusive cultures,
 
 <figure class="align-center">
   <img src="/assets/images/SU2.jpg" alt="">
-  <figcaption>(Left) Photo with President of Stanford University, Marc Tessier-Lavigne. (Right) Orientation introduction.</figcaption>
+  <figcaption>(Left) Group photo of CEE262B offered by Stephen Monismith. (Middle) Photos with friends at Stanford. (Right) Graduation day.</figcaption>
 </figure> 
 
 Additionally, I spent the challenging years of the pandemic there, alongside everyone else. Although it was not the ideal studying experience, it was certainly a unique one. I am grateful for all the supportive people who came together to weather that difficult time with me.
@@ -55,3 +55,16 @@ Additionally, I spent the challenging years of the pandemic there, alongside eve
   <img src="/assets/images/online.jpg" alt="">
   <figcaption>(Left) EFM weekly meeting. Credit: Stephen Monismith. (Right) Course CEE262C: *Coastal Ocean Modeling* offered by Oliver Fringer.</figcaption>
 </figure> 
+
+#### Seattle, WA
+Although I miss the California sunshine, Seattle brings color to my life with its spring blossoms, lush greens in the summer, and skiing opportunities in the winter. Of course, the rain you cannot miss.
+
+
+## Hobbies
+
+
+## Travel
+
+
+
+
