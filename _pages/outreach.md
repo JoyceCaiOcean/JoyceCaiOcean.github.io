@@ -11,6 +11,10 @@ classes: wide
 Student Volunteer (*Seattle, Wa, USA. May 2022*）
 * Introduce turbulence, thermal convection, internal waves lab experiments to the public
 
+<figure class="align-center">
+  <img src="/assets/images/AquaOpenH.jpg" alt="">
+  <figcaption> (Left & Middle) Buoyancy-driven convection. (Right) I am introducing "fish"-driven turbulence. </figcaption>
+</figure> 
 
 ## No More Atlantis
 Student Volunteer (*Lund, Sweden. November 2017*)
@@ -46,5 +50,8 @@ Organizer (*Guangzhou, China. September 2016 - June 2018*)
 * Directed the Department of Publicity to produce materials for calling for protection of marine creatures, especially the Chinese White Dolphin.
 * Initiated and managed the association’s official WeChat account, where volunteer activities and knowledge popularization materials for marine creature’s protection were regularly posted
 
-
+<figure style="width: 800px" class="align-center">
+  <img src="/assets/images/SeaElf.jpg" alt="">
+  <figcaption>(Top Left) Poster of Sea Elf Volunteer Association. (Top Right) Volunteer lectures at Jishan Primary School. (Bottom Left) Chinese White Dolphin watching tour in Zhuhai. (Bottom Right) Advocate the protection of marine creatures to the public. </figcaption>
+</figure> 
 
