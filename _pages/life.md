@@ -36,6 +36,11 @@ After studying in the same place for 20 years, I felt a strong desire to explore
   <figcaption>Incredible time in Lund.</figcaption>
 </figure> 
 
+<figure class="align-center">
+  <img src="/assets/images/EUtravel.jpg" alt="">
+  <figcaption> Travel alone around Europe on a budget.</figcaption>
+</figure> 
+
 #### Stanford, CA
 My incredible time in Sweden opened me up to diverse people, inclusive cultures, and the world beyond. The opportunity to attend graduate school at the prestigious Stanford University felt like a dream come true. Though I had moments of self-doubt about my sense of belonging among such intelligent peers, I was thrilled by the kindness I received and the new person I became through learning from not only top-notch scholars but also all the experiences I went through.
 
@@ -47,6 +52,11 @@ My incredible time in Sweden opened me up to diverse people, inclusive cultures,
 <figure class="align-center">
   <img src="/assets/images/SU2.jpg" alt="">
   <figcaption>(Left) Group photo of CEE262B offered by Stephen Monismith. (Middle) Photos with friends at Stanford. (Right) Graduation day.</figcaption>
+</figure> 
+
+<figure style="width: 800px" class="align-center">
+  <img src="/assets/images/Elisa.jpg" alt="">
+  <figcaption> Fall gathering at Elisa's place.</figcaption>
 </figure> 
 
 Additionally, I spent the challenging years of the pandemic there, alongside everyone else. Although it was not the ideal studying experience, it was certainly a unique one. I am grateful for all the supportive people who came together to weather that difficult time with me.
