@@ -16,6 +16,11 @@ classes: wide
 
 **Cai, T.**, Zhao, Z., D'Asaro, E. Seasonality of internal tides in changing ocean from Argo floats. *Poster presented at: Graduate Climate Conference; October, 2022; Pack Forest, WA, USA.* 
 
+<figure style="width: 560px" class="align-center">
+  <img src="/assets/images/GCC_2022.png" alt="">
+  <figcaption> Group photo of all participants of Graduate Climate Conference 2022.</figcaption>
+</figure> 
+
 **Cai, T.**, Zhao, Z., D'Asaro, E., Wang, J., Fu, L. Time‑Varying internal tides revealed by mooring measurements in SWOT Cal/Val pre‑Launch field campaign 2019. *Poster presented at: AGU Ocean Science Meeting; March, 2022; Virtual.*
 
 <figure style="width: 560px" class="align-center">
@@ -35,6 +40,8 @@ Chen, Y., **Cai, T.**, Lin, J. The fishery resources of the southern East China 
 
 
 ## Invited Talks
-**Cai, T.** From estuaries to ocean. *Oral presented at: Graduate Student Conference, School of Marine Engineering and Technology, Sun Yat-sen University; May, 2022; Guangzhou, China.*
+**Cai, T.** Time‑Varying internal tides revealed by mooring measurements in SWOT Cal/Val pre‑Launch field campaign 2019. *Oral presented at Professor Huayang Cai's Lab Meeting, School of Marine Engineering and Technology, Sun Yat-sen University; December, 2022; Zhuhai, China.*
+
+**Cai, T.** From estuaries to ocean. *Oral presented at: Graduate Student Conference, School of Marine Engineering and Technology, Sun Yat-sen University; May, 2022; Zhuhai, China.*
 
 ---
