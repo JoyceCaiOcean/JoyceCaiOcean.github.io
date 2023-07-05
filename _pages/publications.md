@@ -17,7 +17,7 @@ classes: wide
 **Cai, T.**, Zhao, Z., D'Asaro, E. Seasonality of internal tides in changing ocean from Argo floats. *Poster presented at: Graduate Climate Conference; October, 2022; Pack Forest, WA, USA.* 
 
 <figure style="width: 560px" class="align-center">
-  <img src="/assets/images/GCC_2022.png" alt="">
+  <img src="/assets/images/GCC_2022.JPG" alt="">
   <figcaption> Group photo of all participants of Graduate Climate Conference 2022.</figcaption>
 </figure> 
 
