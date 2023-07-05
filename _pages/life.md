@@ -149,7 +149,7 @@ These journeys have humbled me, reminding me of my insignificance in the face of
 
 #### US
 
-<figure class="align-center">
+<figure style="width:960px" class="align-center">
   <img src="/assets/images/US.jpg" alt="">
   <figcaption> (Top Left) Washington DC. (Top Right) Stanford Hopkins Marine Station, Monterey, CA. (Bottom Left) New York City, NY. (Bottom Right)Point Reyes, CA. </figcaption>
 </figure> 
