@@ -144,7 +144,7 @@ These journeys have humbled me, reminding me of my insignificance in the face of
 
 <figure class="align-center">
   <img src="/assets/images/europe.jpg" alt="">
-  <figcaption> (Left) The Great Pyramid of Giza, Egypt. (Second Left) Equator across Kenya. (Second Right) Paris, France. (Right) Amsterdam, Netherlands. </figcaption>
+  <figcaption> (Top Left) Amsterdam, Netherlands. (Top Middle) Paris, France.(Top Right) Equator across Kenya. (Bottom Left) The Great Pyramid of Giza, Egypt. (Bottom Right) In hot air ballon, Turkey. </figcaption>
 </figure> 
 
 #### United States
