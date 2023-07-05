@@ -147,9 +147,9 @@ These journeys have humbled me, reminding me of my insignificance in the face of
   <figcaption> (Left) The Great Pyramid of Giza, Egypt. (Second Left) Equator across Kenya. (Second Right) Paris, France. (Right) Amsterdam, Netherlands. </figcaption>
 </figure> 
 
-#### US
+#### United States
 
-<figure style="width:900px" class="align-center">
+<figure style="width:800px" class="align-center">
   <img src="/assets/images/US.jpg" alt="">
   <figcaption> (Top Left) Washington DC. (Top Right) Stanford Hopkins Marine Station, Monterey, CA. (Bottom Left) New York City, NY. (Bottom Right)Point Reyes, CA. </figcaption>
 </figure> 
