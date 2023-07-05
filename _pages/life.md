@@ -69,11 +69,52 @@ Additionally, I spent the challenging years of the pandemic there, alongside eve
 #### Seattle, WA
 Although I miss the California sunshine, Seattle brings color to my life with its spring blossoms, lush greens in the summer, and skiing opportunities in the winter. Of course, the rain you cannot miss.
 
+<figure class="align-center">
+  <img src="/assets/images/Seattle1.jpg" alt="">
+</figure> 
+
+<figure class="align-center">
+  <img src="/assets/images/Seattle2.jpg" alt="">
+</figure>
+
 
 ## Hobbies
+#### Running
+In high school, I wasn't a runner. But destiny had other plans for me. A classmate got injured right before our school's sporting games day, leaving a vacant spot in the 800-meter race. Encouraged by my teacher, I hesitated but eventually accepted the challenge. With just a few days to prepare, I trained diligently after school. On the big day, I mustered the courage to participate and surprised myself with a strong finish. That race revealed my hidden potential and sparked a passion for long-distance running.
 
+For eight years, running became my daily ritual, providing not only physical rewards but also precious moments for self-reflection. The rhythm of each stride allowed my thoughts to flow freely, offering clarity and inspiration. Yet, running was never a solitary pursuit. The camaraderie I found while running with others forged lasting friendships, built upon our shared love for the sport.
+
+<figure class="align-center">
+  <img src="/assets/images/Running.jpg" alt="">
+  <figcaption> Extra fun when running with friends who share a common interest.</figcaption>
+</figure> 
+
+#### Cooking
+
+
+
+#### Hiking
+
+
+
+#### Skiing
+
+
+#### Others
+
+concert
+rafting
 
 ## Travel
+#### China
+
+#### Europe
+
+#### MiddleEast
+
+#### Africa
+
+#### 
 
 
 
