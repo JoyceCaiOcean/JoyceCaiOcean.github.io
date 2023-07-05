@@ -8,8 +8,6 @@ classes: wide
 
 My journey in marine science began in the picturesque Pearl River Estuary (PRE) in Guangdong, China. Driven by a desire to comprehend the complex dynamics of tidal energy transportation and dissipation in the PRE, I delved deep into my research, examining the impact of human activities over the past 50 years. Upon moving to California, I redirected my focus to the captivating San Francisco Bay, where I immersed myself in the wonders of its marine environment. Enthralled by the enigmatic allure of the vast open ocean, I expanded my research interests to study the intriguing phenomenon of internal tides in the deep sea.
 
-<!-- ![2017 Weddell polynya (credit: NASA Worldview)](/assets/images/2017_polynya.tiff){:height="400px" width="1000px" style="border: 1px solid black"} -->
-
 
 ## Internal Tides Analysis from SWOT Pre‑launch In‑situ Measurements
 Graduate Research Assistant, University of Washington, Applied Physics Laboratory (*Seattle, WA, USA. March 2021 - Present*)
@@ -30,6 +28,11 @@ Undergraduate Research Assistant, Sun Yat‑sen University (*Guangzhou, China. F
 * Analyzed how changes of the Pearl River estuary terrain influenced Lingding Channel’ s tide energy transport and dissipation in recent 50 years using MATLAB and one‑dimensional analytical model for tidal hydrodynamics in an infinitely long channel
 * Conducted the research in the context of global sea level rise and high intensity human activities, aiming to offer scientific grounding and explanations for issues regarding relevant coast ecosystems, saline water encroachment, and waterway dredging
 
+<figure class="align-center">
+    <img src="/assets/images/PRE.jpg">
+    <figcaption>(Left) Study region. (Middle) Topographic setting of sensitivity analysis. (Right) Tidal energy transport and dissipation in recent 50 years. </figcaption>
+</figure>
+
 
 ## Fishery resources of the Southern East China Sea in historic periods
 Undergraduate Research Assistant, Sun Yat‑sen University (*Guangzhou, China. March 2017 - April 2018*)
@@ -45,9 +48,13 @@ Undergraduate Research Assistant, Sun Yat‑sen University (*Guangzhou, China. M
 ## Regulations for time‑space distribution and environmental impact factors of small plankton communities (College Student Innovative Training Project)
 Independent Research Assistant, Sun Yat‑sen University （*Guangzhou, China. March 2016 - September 2017*)
 * Advisors: Jinpeng Yang
-* Attempted to uncover the coupling relationship between the aforementioned time‑space distribution and environmental impact factors of the Pearl River estuary, aiming to provide environmental monitoring and protection
+* Attempted to uncover the coupling relationship between the time‑space distribution and environmental impact factors of the Pearl River estuary, aiming to provide environmental monitoring and protection
 * Conducted ten effective samplings in three monitoring spots established along the north coast of Qinglv Road in Zhuhai City, processing data of such categories as temperature, salinity, pH value, concentration of chlorophyll, and organism abundance
 
+<figure class="align-center">
+    <img src="/assets/images/Bio.jpg">
+    <figcaption>(Left) Study region. (Right) Time series of abundance of different orders of ciliates and dinoflagellates in July 2016 - June 2017. </figcaption>
+</figure>
 
 ## Ongoing and future work
 I'm currently actively working on several projects, and some others are still in the ideation phase. If any of these projects sound interesting to you or if you're conducting similar research, please don't hesitate to [contact me](mailto:joycecai@uw.edu). I would be thrilled to collaborate with you!
