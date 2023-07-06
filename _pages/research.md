@@ -51,7 +51,7 @@ Independent Research Assistant, Sun Yat‑sen University （*Guangzhou, China. M
 * Attempted to uncover the coupling relationship between the time‑space distribution and environmental impact factors of the Pearl River estuary, aiming to provide environmental monitoring and protection
 * Conducted ten effective samplings in three monitoring spots established along the north coast of Qinglv Road in Zhuhai City, processing data of such categories as temperature, salinity, pH value, concentration of chlorophyll, and organism abundance
 
-<figure class="align-center">
+<figure style="width: 800px" class="align-center">
     <img src="/assets/images/Bio.jpg">
     <figcaption>(Left) Study region. (Right) Time series of abundance of different orders of ciliates and dinoflagellates in July 2016 - June 2017. </figcaption>
 </figure>
