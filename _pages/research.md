@@ -3,7 +3,7 @@ layout: single
 title: Studying tides From Estuaries to the Ocean
 header:
   image: /assets/images/M2.png
-  filter: 0.2 # same as adding an opacity of 0.3 to a black background
+  filter: 0.4 # same as adding an opacity of 0.3 to a black background
   caption: "*Amplitude of mode-1 M2 internal tide from satellite altimetry. Credit: Dr. Z. Zhao.*"
 permalink: /research/
 author_profile: true
