@@ -8,11 +8,16 @@ classes: wide
 
 ## Publications
 
-**Cai, T.**, Zhao, Z., D'Asaro, E., Wang, J., Fu, L. Time‑Varying internal tides revealed by mooring measurements in SWOT Cal/Val pre‑Launch field campaign 2019. *Journal of Geophysical Research&ndash;Oceans*, in prep.
+**Cai, T.**, Zhao, Z., D'Asaro, E., Wang, J., Fu, L. Internal tide variability off Central California: multiple sources, seasonality, and eddying background. *Journal of Geophysical Research&ndash;Oceans*, submitted.
 
 
 
 ## Conference Presentations
+**Cai, T.**, Zhao, Z., D'Asaro, E., Wang, J., Fu, L. Internal Tide Variability off Central California Observed by SWOT Pre-launch moorings and Satellite Altimetry: Multiple Sources, Seasonality, and Eddying Background. *Poster presented at: AGU Ocean Science Meeting; Feberuray, 2024; New Orleans, LA, USA.*
+
+
+**Cai, T.**, Zhao, Z., D'Asaro, E. Mesoscale Field, Internal Tides, and Fronts in IOPI NAVO Glider data. *Poster presented at: S-MODE Science Team Meeting; November, 2023; NASA Ames Conference Center (NACC), Mountain View, CA, USA.* 
+
 
 **Cai, T.**, Zhao, Z., D'Asaro, E. Seasonality of internal tides in changing ocean from Argo floats. *Poster presented at: Graduate Climate Conference; October, 2022; Pack Forest, WA, USA.* 
 
