@@ -8,7 +8,7 @@ classes: wide
 
 ## Polar Science Weekend
 Volunteer (*Pacific Science Center, Seattle, WA, USA. March 2024*）
-* Invite kids and family to explore Arctic soundscapes with Listen to the Arctic
+* Invite kids and family to explore Arctic soundscapes with Listening to the Arctic
 
 <figure style="width: 800px" class="align-center">
   <img src="/assets/images/PSW24.jpg" alt="">
