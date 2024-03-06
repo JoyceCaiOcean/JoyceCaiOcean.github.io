@@ -6,9 +6,17 @@ author_profile: true
 classes: wide
 ---
 
+## Polar Science Weekend
+Volunteer (*Pacific Science Center, Seattle, WA, USA. March 2024*）
+* Invite kids and family to explore Arctic soundscapes with Listen to the Arctic
+
+<figure style="width: 800px" class="align-center">
+  <img src="/assets/images/AquaOpenH.jpg" alt="">
+  <figcaption> (Left) I am introducing beared seal with the its sounds record from the hydrophone. Credit: Harry Stern. (Right) Watchdog station. </figcaption>
+</figure> 
 
 ## Students Explore Aquatic Sciences Open House
-Student Volunteer (*Seattle, Wa, USA. May 2022*）
+Student Volunteer (*University of Washington, Seattle, WA, USA. May 2022*）
 * Introduce turbulence, thermal convection, internal waves lab experiments to the public
 
 <figure class="align-center">
