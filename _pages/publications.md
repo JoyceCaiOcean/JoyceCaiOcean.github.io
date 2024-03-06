@@ -16,7 +16,7 @@ classes: wide
 **Cai, T.**, Zhao, Z., D'Asaro, E., Wang, J., Fu, L. Internal Tide Variability off Central California Observed by SWOT Pre-launch moorings and Satellite Altimetry: Multiple Sources, Seasonality, and Eddying Background. *Poster presented at: AGU Ocean Science Meeting; Feberuray, 2024; New Orleans, LA, USA.*
 
 <figure style="width: 560px" class="align-center">
-  <img src="/assets/images/COM2024.jgp" alt="">
+  <img src="/assets/images/COM2024.jpg" alt="">
   <figcaption> Poster presentation at OSM 2024.</figcaption>
 </figure> 
 
