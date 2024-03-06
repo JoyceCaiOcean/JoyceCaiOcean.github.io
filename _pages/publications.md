@@ -15,9 +15,18 @@ classes: wide
 ## Conference Presentations
 **Cai, T.**, Zhao, Z., D'Asaro, E., Wang, J., Fu, L. Internal Tide Variability off Central California Observed by SWOT Pre-launch moorings and Satellite Altimetry: Multiple Sources, Seasonality, and Eddying Background. *Poster presented at: AGU Ocean Science Meeting; Feberuray, 2024; New Orleans, LA, USA.*
 
+<figure style="width: 560px" class="align-center">
+  <img src="/assets/images/COM2024.JPG" alt="">
+  <figcaption> Poster presentation at OSM 2024.</figcaption>
+</figure> 
+
 
 **Cai, T.**, Zhao, Z., D'Asaro, E. Mesoscale Field, Internal Tides, and Fronts in IOPI NAVO Glider data. *Poster presented at: S-MODE Science Team Meeting; November, 2023; NASA Ames Conference Center (NACC), Mountain View, CA, USA.* 
 
+<figure style="width: 560px" class="align-center">
+  <img src="/assets/images/SMODE_2023.JPG" alt="">
+  <figcaption> Group photo of 2023 S-MODE Science Team Meeting.</figcaption>
+</figure> 
 
 **Cai, T.**, Zhao, Z., D'Asaro, E. Seasonality of internal tides in changing ocean from Argo floats. *Poster presented at: Graduate Climate Conference; October, 2022; Pack Forest, WA, USA.* 
 
