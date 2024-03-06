@@ -11,7 +11,7 @@ Volunteer (*Pacific Science Center, Seattle, WA, USA. March 2024*）
 * Invite kids and family to explore Arctic soundscapes with Listen to the Arctic
 
 <figure style="width: 800px" class="align-center">
-  <img src="/assets/images/AquaOpenH.jpg" alt="">
+  <img src="/assets/images/PSW24.jpg" alt="">
   <figcaption> (Left) I am introducing beared seal with the its sounds record from the hydrophone. Credit: Harry Stern. (Right) Watchdog station. </figcaption>
 </figure> 
 
