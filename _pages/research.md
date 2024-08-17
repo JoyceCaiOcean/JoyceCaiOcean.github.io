@@ -27,6 +27,11 @@ Graduate Research Assistant, University of Washington, Applied Physics Laborator
 * Temporal and spatial variations of semidiurnal internal tides are observed using in situ moorings and satellite altimetry. Complex internal tide field is caused by multiple generation sources, seasonal stratification, and likely mesoscale eddies. The three generation sources of mode-1 M$_2$ internal tides are subject to strong but different seasonalities
 * Cai, T., Zhao, Z., D'Asaro, E., Wang, J., & Fu, L. L. (2024). Internal tide variability off Central California: multiple sources, seasonality, and eddying background. Journal of Geophysical Research: Oceans, 129(8), e2024JC020892. <a href="https://doi.org/10.1029/2024JC020892">https://doi.org/10.1029/2024JC020892</a>.
 
+<figure class="align-center">
+    <img src="/assets/images/paper_tide_24.jpg">
+    <figcaption> Figure 1 from <a href="https://doi.org/10.1029/2024JC020892">Cai et al. (2024)</a>a>. Study region in the California Current System (CCS). Bathymetry is mapped using data from GEBCO, with key topographic features labeled. Two moorings deployed during the SWOT pre-launch campaign 2019 are labeled in cyan (the north mooring) and yellow (the south mooring). Major sources of mode-1 (red) and mode-2 (purple) M$_2$ internal tides in this region are marked as curved arrows, based on the 27-year-coherent satellite altimetry model. The figure in the left of an orange box is the zoom-in view of the two moorings 30 km apart. </figcaption>
+</figure>
+
 
 ## Sediment erosion and computational fluid dynamics
 Independent Research Assistant, Stanford University (*Stanford, CA, USA. June 2020 - September 2020*)
