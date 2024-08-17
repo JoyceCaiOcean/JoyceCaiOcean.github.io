@@ -13,7 +13,7 @@ classes: wide
 My journey in marine science began in the picturesque Pearl River Estuary (PRE) in Guangdong, China. Driven by a desire to comprehend the complex dynamics of tidal energy transportation and dissipation in the PRE, I delved deep into my research, examining the impact of human activities over the past 50 years. Upon moving to California, I redirected my focus to the captivating San Francisco Bay, where I immersed myself in the wonders of its marine environment. Enthralled by the enigmatic allure of the vast open ocean, I expanded my research interests to study the intriguing phenomenon of internal tides in the deep sea.
 
 
-## Sumesoscale dynamics observed from SWOT and S-MODE
+## Submesoscale dynamics observed from SWOT and S-MODE
 Graduate Research Assistant, University of Washington, Applied Physics Laboratory (*Seattle, WA, USA. Janunary 2024 - Present*)
 * Advisors: Eric D’Asaro
 * Aim to answer the questions: "Why there is a front there?" "Where does the fresh water come?", and "Why there is a compensation of horizontal temperature and salinity gradients?"
