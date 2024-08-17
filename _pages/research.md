@@ -13,10 +13,19 @@ classes: wide
 My journey in marine science began in the picturesque Pearl River Estuary (PRE) in Guangdong, China. Driven by a desire to comprehend the complex dynamics of tidal energy transportation and dissipation in the PRE, I delved deep into my research, examining the impact of human activities over the past 50 years. Upon moving to California, I redirected my focus to the captivating San Francisco Bay, where I immersed myself in the wonders of its marine environment. Enthralled by the enigmatic allure of the vast open ocean, I expanded my research interests to study the intriguing phenomenon of internal tides in the deep sea.
 
 
-## Internal Tides Analysis from SWOT Pre‑launch In‑situ Measurements
-Graduate Research Assistant, University of Washington, Applied Physics Laboratory (*Seattle, WA, USA. March 2021 - Present*)
+## Sumesoscale dynamics observed from SWOT and S-MODE
+Graduate Research Assistant, University of Washington, Applied Physics Laboratory (*Seattle, WA, USA. Janunary 2024 - Present*)
+* Advisors: Eric D’Asaro
+* Aim to answer the questions: "Why there is a front there?" "Where does the fresh water come?", and "Why there is a compensation of horizontal temperature and salinity gradients?"
+* Map mesoscale temperature and salinity field from the NAVO floats, NAVO Glider and Seagliders from the Sub-Mesoscale Ocean Dynamics Experiment (<a href="https://espo.nasa.gov/s-mode/content/S-MODE">S-MODE</a>)
+* Compare the velocity field from remote sensing product (<a href="https://swot.jpl.nasa.gov/">SWOT</a>) with the in situ measurement from S-MDOE
+
+## Internal tide variability off Central California
+Graduate Research Assistant, University of Washington, Applied Physics Laboratory (*Seattle, WA, USA. March 2021 - Janunary 2024*)
 * Advisors: Zhongxiang Zhao and Eric D’Asaro
-* Quantify the Spatiotemporal variation of Internal Tides near Monterey Bay, CA, by comparing 3 moorings data from SWOT Cal/Val Pre‑launch Field Campaign 2019 with satellite altimetry results
+* Two moorings deployed for 75 days in 2019 and long-term satellite altimetry data reveal a spatially complex and temporally variable internal tidal field at the SWOT Cal/Val site off central California due to the interference of multiple seasonally-variable sources.
+* Temporal and spatial variations of semidiurnal internal tides are observed using in situ moorings and satellite altimetry. Complex internal tide field is caused by multiple generation sources, seasonal stratification, and likely mesoscale eddies. The three generation sources of mode-1 M$_2$ internal tides are subject to strong but different seasonalities
+* Cai, T., Zhao, Z., D'Asaro, E., Wang, J., & Fu, L. L. (2024). Internal tide variability off Central California: multiple sources, seasonality, and eddying background. Journal of Geophysical Research: Oceans, 129(8), e2024JC020892. <a href="https://doi.org/10.1029/2024JC020892">https://doi.org/10.1029/2024JC020892</a>.
 
 
 ## Sediment erosion and computational fluid dynamics
@@ -63,6 +72,7 @@ Independent Research Assistant, Sun Yat‑sen University （*Guangzhou, China. M
 ## Ongoing and future work
 I'm currently actively working on several projects, and some others are still in the ideation phase. If any of these projects sound interesting to you or if you're conducting similar research, please don't hesitate to [contact me](mailto:joycecai@uw.edu). I would be thrilled to collaborate with you!
 
+* submesoscale dynamics and frontogenesis
 * internal tides in the Arctic region
 * seasonal variations of internal tides in the changing climate
 * interaction between internal tides and mesoscale eddies and currents
