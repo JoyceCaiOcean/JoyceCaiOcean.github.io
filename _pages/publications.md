@@ -8,8 +8,7 @@ classes: wide
 
 ## Publications
 
-**Cai, T.**, Zhao, Z., D'Asaro, E., Wang, J., Fu, L. Internal tide variability off Central California: multiple sources, seasonality, and eddying background. *Journal of Geophysical Research&ndash;Oceans*, submitted.
-
+**Cai, T.**, Zhao, Z., D'Asaro, E., Wang, J., & Fu, L. L. (2024). Internal tide variability off Central California: multiple sources, seasonality, and eddying background. *Journal of Geophysical Research: Oceans, 129*(8), e2024JC020892. <a href="https://doi.org/10.1029/2024JC020892">https://doi.org/10.1029/2024JC020892</a>.
 
 
 ## Conference Presentations
