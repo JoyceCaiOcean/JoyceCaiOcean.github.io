@@ -70,7 +70,7 @@ Additionally, I spent the challenging years of the pandemic there, alongside eve
 Although I miss the California sunshine, Seattle brings color to my life with its spring blossoms, lush greens in the summer, and skiing opportunities in the winter. Of course, the rain you cannot miss.
 
 <figure class="align-center">
-  <img src="/assets/images/Seattle1.JPG" alt="">
+  <img src="/assets/images/seattle1.JPG" alt="">
 </figure> 
 
 <figure class="align-center">
@@ -92,7 +92,7 @@ For eight years, running became my daily ritual, providing not only physical rew
 #### Cooking
 My love for cooking extends beyond the kitchen; I find inspiration and excitement by watching shows like Master Chef, pairing them with my own delectable creations. For me, cooking is not just a job; it's a dream come true. Even after standing for eight hours, tirelessly preparing food, I feel no fatigue. What truly brings me joy is witnessing the happiness and satisfaction on the faces of those who indulge in the dishes I create. Before college, I took a leap towards my dream by obtaining a junior cook certificate after attending a brief culinary school. As I look ahead, my heart is filled with hope and determination to continue pursuing my dream.
 
-<figure style="width: 560px" class="align-center">
+<figure style="width: 500px" class="align-center">
   <img src="/assets/images/cooking.jpg" alt="">
 </figure> 
 
@@ -126,37 +126,6 @@ My love for cooking extends beyond the kitchen; I find inspiration and excitemen
   <img src="/assets/images/Glacier.jpg" alt="">
   <figcaption> Rafting Day at Flathead River, MT. </figcaption>
 </figure> 
-
- <!--## Travel
-From a young age, I have been fortunate that my parents instilled in me a love for travel. It has been a transformative experience, revealing the bountiful fruits and captivating wonders that await us in every corner of the world. Through my travels, I have witnessed the breathtaking beauty of different landscapes, immersed myself in diverse cultures, and gained a profound understanding of life beyond my own.
-
-These journeys have humbled me, reminding me of my insignificance in the face of the awe-inspiring power and magnificence of nature. They have broadened my horizons and enriched my perspective, allowing me to appreciate the boundless diversity that exists across our planet.
-
-#### China
-
-<figure class="align-center">
-  <img src="/assets/images/China0.jpg" alt="">
-  <figcaption> (Left) Sanya, China. (Middle) Guilin, China. (Right) Beijing, China. </figcaption>
-</figure> 
-
-<figure class="align-center">
-  <img src="/assets/images/China1.jpg" alt="">
-  <figcaption> (Left) Macao, China. (Middle) Hongkong, China. (Right) Shanghai, China. </figcaption>
-</figure> 
-
-#### Europe & Africa
-
-<figure class="align-center">
-  <img src="/assets/images/europe.jpg" alt="">
-  <figcaption> (Top Left) Amsterdam, Netherlands. (Top Middle) Paris, France.(Top Right) Equator across Kenya. (Bottom Left) The Great Pyramid of Giza, Egypt. (Bottom Right) In hot air ballon, Turkey. </figcaption>
-</figure> 
-
-#### United States
-
-<figure style="width:800px" class="align-center">
-  <img src="/assets/images/US.jpg" alt="">
-  <figcaption> (Top Left) Washington DC. (Top Right) Stanford Hopkins Marine Station, Monterey, CA. (Bottom Left) New York City, NY. (Bottom Right)Point Reyes, CA. </figcaption>
-</figure>  -->
 
 
 
