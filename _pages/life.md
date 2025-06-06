@@ -70,7 +70,7 @@ Additionally, I spent the challenging years of the pandemic there, alongside eve
 Although I miss the California sunshine, Seattle brings color to my life with its spring blossoms, lush greens in the summer, and skiing opportunities in the winter. Of course, the rain you cannot miss.
 
 <figure class="align-center">
-  <img src="/assets/images/Seattle1.jpg" alt="">
+  <img src="/assets/images/Seattle1.JPG" alt="">
 </figure> 
 
 <figure class="align-center">
@@ -85,7 +85,7 @@ In high school, I wasn't a runner. But destiny had other plans for me. A classma
 For eight years, running became my daily ritual, providing not only physical rewards but also precious moments for self-reflection. The rhythm of each stride allowed my thoughts to flow freely, offering clarity and inspiration. Yet, running was never a solitary pursuit. The camaraderie I found while running with others forged lasting friendships, built upon our shared love for the sport.
 
 <figure class="align-center">
-  <img src="/assets/images/Running.jpg" alt="">
+  <img src="/assets/images/running.JPG" alt="">
   <figcaption> Extra fun when running with friends who share a common interest.</figcaption>
 </figure> 
 
@@ -103,12 +103,16 @@ My love for cooking extends beyond the kitchen; I find inspiration and excitemen
   <figcaption> (Left) Rattlesnake, WA. (Middle two) Glacier National Park, MT. (Right) Point Reyes, CA. </figcaption>
 </figure> 
 
+<figure class="align-center">
+  <img src="/assets/images/hiking2.JPG" alt="">
+  <figcaption> (Left) Kalalau, HI. (Middle) Excelsior Pass, WA. (Right) Subway Cave, AZ. </figcaption>
+</figure> 
 
 #### Skiing
 = Winter hiking.
 
 <figure class="align-center">
-  <img src="/assets/images/Skiing.jpg" alt="">
+  <img src="/assets/images/skiing.JPG" alt="">
 </figure> 
 
 #### Others
