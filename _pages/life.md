@@ -123,7 +123,7 @@ My love for cooking extends beyond the kitchen; I find inspiration and excitemen
   <figcaption> Rafting Day at Flathead River, MT. </figcaption>
 </figure> 
 
-## Travel
+ <!--## Travel
 From a young age, I have been fortunate that my parents instilled in me a love for travel. It has been a transformative experience, revealing the bountiful fruits and captivating wonders that await us in every corner of the world. Through my travels, I have witnessed the breathtaking beauty of different landscapes, immersed myself in diverse cultures, and gained a profound understanding of life beyond my own.
 
 These journeys have humbled me, reminding me of my insignificance in the face of the awe-inspiring power and magnificence of nature. They have broadened my horizons and enriched my perspective, allowing me to appreciate the boundless diversity that exists across our planet.
@@ -152,7 +152,7 @@ These journeys have humbled me, reminding me of my insignificance in the face of
 <figure style="width:800px" class="align-center">
   <img src="/assets/images/US.jpg" alt="">
   <figcaption> (Top Left) Washington DC. (Top Right) Stanford Hopkins Marine Station, Monterey, CA. (Bottom Left) New York City, NY. (Bottom Right)Point Reyes, CA. </figcaption>
-</figure> 
+</figure>  -->
 
 
 
