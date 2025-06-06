@@ -23,7 +23,7 @@ I had a happy and normal childhood with those who loved me the most. Even though
 
 When I was a kid, I used to play on the campus where I later attended undergraduate school; Sun Yat-sen University.
 
-<figure style="width: 800px" class="align-center">
+<figure style="width: 700px" class="align-center">
   <img src="/assets/images/SYSU_grad.jpg" alt="">
   <figcaption>Main campus of SYSU.</figcaption>
 </figure> 
